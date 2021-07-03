@@ -1,5 +1,4 @@
 master m
 add in mybranch
-기능1 추가
 some hot fix
 기능1 추가
